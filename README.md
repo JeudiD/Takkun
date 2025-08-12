@@ -16,13 +16,7 @@ A minimal Discord bot that streams chill lofi beats 24/7 in a voice channel. Per
 TOKEN=your_bot_token_here
 
 3. Make sure you have Python 3.10+ installed  
-4. Install dependencies:
 
-- ```bash
-- pip install -r requirements.txt
-
-
-python bot.py to run the bot
 
 ## Commands
 
