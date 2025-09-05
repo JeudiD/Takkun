@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Media files (too big for GitHub)
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.webm
+*.mp4
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
